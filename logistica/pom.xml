@@ -33,6 +33,12 @@
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
+<!--       suporte xml no get  -->
+<!--		<dependency>-->
+<!--			<groupId>com.fasterxml.jackson.dataformat</groupId>-->
+<!--			<artifactId>jackson-dataformat-xml</artifactId>-->
+<!--		</dependency>-->
+
 	</dependencies>
 
 	<build>
